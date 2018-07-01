@@ -1,3 +1,8 @@
+"""
+    Created by hatim tachi.
+    Copyright © 2018 hatim tachi. All rights reserved.
+"""
+
 import Unity
 import tools
 import os
